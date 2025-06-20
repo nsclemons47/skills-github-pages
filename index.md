@@ -1,8 +1,7 @@
 ---
-title: Mr. Gomier's Foods
+title: Mr. Gomier's Pescitarian, Vegetarian, and Vegan Foods
 ---
-# Authhentic Rastafarian Cusine Located in Punta Gorda, Belize
-## Offering Pescitarian, Vegetarian, and Vegan dishes
+# Authhentic Rastafarian Cuisine Located in Punta Gorda, Belize
 
 
 
